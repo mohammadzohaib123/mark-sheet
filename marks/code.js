@@ -1,5 +1,5 @@
 function marks_Sheet() {
-    console.log(document.getElementById('eng_Marks'))
+    console.log(document.getElementById('eng_Marks'));
     radio = document.querySelector('input[name="radio"]:checked');
     dropDown = document.getElementById('dropDown');
 
